@@ -29,7 +29,7 @@ header .container{
 
 #section1 .container{
     display: flex;
-}
+    }
 
 #section1 .title{
     font-size: 48px;
@@ -138,6 +138,7 @@ footer{
 ul{
     list-style-type: none;
     display: flex;
+    gap: 20px;
 }
 
 button{
